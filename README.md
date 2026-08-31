@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tunahan İbiş</h1>
-<h3 align="center">Full Stack Developer @rekerdigital</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I'm currently working on **event-driven backend systems** — message queues, async consumers, that kind of plumbing
 - 🌱 I'm currently learning more about **Kubernetes & container orchestration**, past the "it runs on my machine" stage
