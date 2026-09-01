@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tunahan-ibiş-5ab87823a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="display:inline-block;vertical-align:middle;" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/tunahan-ibis" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="display:inline-block;vertical-align:middle;" /></a>&nbsp;
 </div>
 
 <h3 align="center">Languages & tools:</h3>
