@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning more about **Kubernetes & container orchestration**, past the "it runs on my machine" stage
 - 💬 Ask me about **full-stack development** — I work across frontend, mobile, and backend
 - 📫 Reach me at **[tunahanibis@gmail.com](mailto:tunahanibis@gmail.com)**
-- 📄 Know more about my experience on **[LinkedIn](https://www.linkedin.com/in/tunahan-ibiş-5ab87823a)**
+- 📄 Know more about my experience on **[LinkedIn](https://www.linkedin.com/in/tunahan-ibis)**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
